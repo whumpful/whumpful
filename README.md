@@ -1,4 +1,4 @@
-### Hi there 👋
+### Whumpful is a collection of whump-related media gathered for your enjoyment.
 
 <!--
 **whumpful/whumpful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
